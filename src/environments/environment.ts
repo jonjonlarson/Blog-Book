@@ -6,15 +6,13 @@ export const environment = {
   production: false,
   
   firebaseConfig :{
- apiKey: "",
- authDomain: "",
- databaseURL: "",
- projectId: "",
- storageBucket: "",
- messagingSenderId: "",
- appId: "",
- measurementId: ""
-
+    apiKey: "AIzaSyAJFjh5pBik7G5VKJPu0egiP5NQEQeDx1Y",
+    authDomain: "jessica-s-blog.firebaseapp.com",
+    projectId: "jessica-s-blog",
+    storageBucket: "jessica-s-blog.appspot.com",
+    messagingSenderId: "658081122646",
+    appId: "1:658081122646:web:bb99d17ec42cbb84ce6ef7",
+    measurementId: "G-ZJ7YYTXD8C"
 }
 }
 /*
