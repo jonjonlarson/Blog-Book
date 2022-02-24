@@ -3,7 +3,7 @@
     "version": 1,
     "newProjectRoot": "projects",
     "projects": {
-        "BlogBook": {
+        "Jessica's Blog": {
             "projectType": "application",
             "schematics": {},
             "root": "",
